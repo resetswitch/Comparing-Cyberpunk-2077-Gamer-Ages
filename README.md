@@ -16,6 +16,7 @@ To show how Cyberpunk 2077 ages compare to those of a similar game, Grand Theft 
 The web scrapper for both Cyberpunk and GTA filter through HTML to ignore extranious information like Blockquotes (which are essentially quotes of another commenter) are ignored, leaving only original comments to be counted.
 
 ## Data
+<img src="https://github.com/resetswitch/Comparing-Cyberpunk-2077-Gamer-Ages/blob/main/Age_Groups_of_Popular_Video_Games.png" alt="Data" width="400"/>
 The data shows that the gaming industry itself is anchored in the 18-34 age ranges and the data harvested supports this.
 
 Note: is that Cyberpunk and GTA are both rated M for Mature by ESRB. ESRB is similar to CARA who rate films: G, PG, PG-13, R, NC-17. Mature meaning the game is meant for 17+.
